@@ -14,7 +14,7 @@ Projeto desenvolvido usando:
 
 ## 🚀 Sobre o Layout
 
-Você pode acessar o layout proposto clicando [aqui](https://efficient-sloth-d85.notion.site/Maratona-Explorer-2-0-7ed52d87338e472e9fc7c25180ca933f) e você será redirecionado para o design no Figma.
+Você pode acessar o layout proposto clicando [aqui](https://www.figma.com/file/j8Fe7AGabn3hX2OCVLTB3i/Rocket-Links---Maratona-Explorer-2.0-(Community)) e você será redirecionado para o design no Figma.
 
 ---
 
