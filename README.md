@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="rocketLinks" src="image/preview-rocketLinks.png" width="100%">
+  <img alt="rocketLinks" src="./image/preview.png" width="100%">
 </p>
 
 ## 👾 Tec's
