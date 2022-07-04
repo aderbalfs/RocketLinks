@@ -33,7 +33,3 @@ Me siga nas redes sociais!!
   <img alt="GitHub language count" src="https://img.shields.io/badge/-Instagram-bc2a8d?style=flat-square&labelColor=bc2a8d&logo=Instagram&logoColor=white&link=https://www.instagram.com/aderbalfs">
   </a>
 </p>
-
----
-
-Projeto desenvolvido durante a **[Maratona Explorer 2.0](https://lp.rocketseat.com.br/inscricao/maratona-explorer)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
