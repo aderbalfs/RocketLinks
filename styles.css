@@ -2,11 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
-  background-color: #e5e5e5;
+  background-color: #5eb2f2;
   margin-top: 8rem;
   display: flex;
   justify-content: center;
@@ -39,7 +39,7 @@ h1 {
 p {
   font-size: 1.2rem;
   margin-bottom: 3rem;
-  font-family: 'Roboto Mono', sans-serif; 
+  font-family: "Roboto Mono", sans-serif;
 }
 .links {
   margin-bottom: 2rem;
@@ -62,7 +62,7 @@ p {
   text-transform: uppercase;
   margin-bottom: 1rem;
   background-color: #71519c;
-  transition: background-color .2s;
+  transition: background-color 0.2s;
 }
 .links .btn-link:hover {
   background: #7b609e;
@@ -71,5 +71,3 @@ footer {
   font-size: 0.75rem;
   font-weight: 500;
 }
-
-
